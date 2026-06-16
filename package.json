@@ -48,6 +48,9 @@
     "classNameTemplate": "{classname}-{title}",
     "titleTemplate": "{classname}-{title}",
     "ancestorSeparator": " › ",
-    "usePathForSuiteName": "true"
+    "usePathForSuiteName": "true",
+    "outputDirectory": "jest-results",
+    "outputName": "junit.xml"
   }
+  
 }
